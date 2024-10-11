@@ -5,7 +5,7 @@ Frontend Engineer & UX Designer bridging technology and creativity to craft thou
 ## 🚀 About Me
 - 🖥️ I specialize in Vue.js and Nuxt.js development
 - 🎨 Passionate about creating intuitive and minimalist design systems
-- 🌐 Experienced in creating scalable applications and websites
+- 🌐 Experienced in creating applications and websites
 - 👥 Advocate for user-centered design
 
 ## 💻 Tech Stack
